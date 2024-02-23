@@ -1,4 +1,4 @@
-baseURL: https://eternity.bora.sh # todo: change site url.
+baseURL: https://www.cabaretbrulee.com
 title: Cabaret Brulee
 defaultContentLanguage: 'en'
 theme: ["hugo-cloak-email", "eternity"]
