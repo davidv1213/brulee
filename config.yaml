@@ -21,8 +21,6 @@ params:
   homepage: "/home"
   specialPages:
     - home
-    - femme
-    - archive
   bypassWelcomePage: true
   disableRadius: true
   moveIt: false
@@ -45,15 +43,6 @@ menu:
     - name: home
       url: /home/
       weight: 1
-    - name: femme
-      url: /femme/
-      weight: 2
-    - name: about
-      url: /about/
-      weight: 3
-    - name: archive
-      url: /tags/archive/
-      weight: 4
     - name: tickets
       url: https://www.outsavvy.com/organiser/cabaret-brulee
       weight: 5
